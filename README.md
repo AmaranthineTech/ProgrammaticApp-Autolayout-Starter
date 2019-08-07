@@ -5,6 +5,10 @@ For more information about how this project was created visit www.arunpatwardhan
 
 Specifically https://arunpatwardhan.com/2019/07/28/creating-ios-apps-without-storyboard-part-1/
 
+## NOTE
+This project is required for the article on implementing Autolayout programmatically: 
+
+
 ## What are “nibless” apps?
 
 Apps which are designed without the help of Storyboard are called as “Nibless” apps. Normally we design an app with the help of a Storyboard file. Earlier they were called Xib files or Nib files. Hence the term “Nibless”.
@@ -34,14 +38,6 @@ There is a lot more coding involved. Which can be daunting to those who are over
 
 A small point. I have left the LaunchScreen.storyboard file. I did not delete it. The reason I did that was to allow the app to allow the system to determine the dimensions on the device. If we do delete the file then the UIScreen.main.bounds return (0.0, 0.0, 320.0, 480.0) which are the old iPhone screen size settings.
 While you can go ahead and make changes programmatically it is a lot easier to just leave the LaunchScreen.storyboard file there.
-
-## More links
-If you wish to write programmatic apps here is an article on how to that.
-
-Here is the link to the starter project.
-https://github.com/AmaranthineTech/ProgrammaticApp-2-Starter
-
-Here is the link to the final project.
 
 ### Contact
 www.amaranthine.in
