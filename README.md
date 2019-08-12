@@ -12,9 +12,12 @@ This project is required for the article on implementing Autolayout programmatic
 
 ## Links to Completed Projects
 LAYOUT ANCHORS            : https://github.com/AmaranthineTech/ProgrammaticApp-LayoutAnchors
+
 VISUAL FORMAT LANGUAGE    : https://github.com/AmaranthineTech/ProgrammaticApp-VFL
+
 NSLAYOUTCONSTRAINTS CLASS : https://github.com/AmaranthineTech/ProgrammaticApp-NSLayoutConstraintsClass
 
 ### Contact
 www.amaranthine.in
+
 arun@amaranthine.co.in
