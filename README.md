@@ -17,6 +17,11 @@ VISUAL FORMAT LANGUAGE    : https://github.com/AmaranthineTech/ProgrammaticApp-V
 
 NSLAYOUTCONSTRAINTS CLASS : https://github.com/AmaranthineTech/ProgrammaticApp-NSLayoutConstraintsClass
 
+NOTE:
+*This project does not cover all conditions and scenarios. You may find errors and warnings coming up, 
+for example when you change the orientation. The idea is to give a simple example of how you could implement this in 
+certain situations. Feel free to make changes to the code to cover all situations.*
+
 ### Contact
 www.amaranthine.in
 
