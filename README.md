@@ -9,6 +9,8 @@ Specifically https://arunpatwardhan.com/2019/07/28/creating-ios-apps-without-sto
 This project is required for the article on implementing Autolayout programmatically: 
 
 ## Link to the article with steps on how to acheive the same
+https://arunpatwardhan.com/2019/07/28/creating-ios-apps-without-storyboard-part-1/
+https://arunpatwardhan.com/2019/09/19/creating-ios-apps-without-storyboard-part-2/
 
 ## Links to Completed Projects
 LAYOUT ANCHORS            : https://github.com/AmaranthineTech/ProgrammaticApp-LayoutAnchors
